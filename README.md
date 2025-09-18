@@ -30,23 +30,22 @@ A simple and responsive weather application built with **React.js** that allows 
 git clone https://github.com/CodxAbhay/BasicReact.git
 
 
-2. Go to the project directory
+### 2. Go to the project directory
 cd Weater_Application_React
 
-3. Install dependencies
+### 3. Install dependencies
 npm install
 
-4. Set up environment variables
-
+### 4. Set up environment variables
 Create a .env file in the root directory and add your API key:
 
 VITE_OPENWEATHER_API_KEY=your_api_key_here
 
-5. Start the development server
+### 5. Start the development server
 npm run dev
 
 
-📷 Preview
+### 📷 Preview
 
 <img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/bbca0831-d579-4fbd-b706-f943b0f20fd0" />
 <img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/3d286b7c-f710-4879-8ac5-4387ee81c682" />
