@@ -1,17 +1,62 @@
-<<<<<<< HEAD
-# BasicReact
-This repo have some basic but most important concept of React.js in codes
-=======
-# React + Vite
+# 🌦️ Weather Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive weather application built with **React.js** that allows users to search for any city and get real-time weather information using the **OpenWeather API**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 🔍 Search weather by city name  
+- 🌡️ Display current temperature, weather condition, and wind speed  
+- ⚡ Real-time data fetched from OpenWeather API  
+- 📱 Clean and responsive user interface  
+- ⚛️ Built using React and Material UI components  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> a58311a (Some UI change in App)
+---
+
+## 🛠️ Tech Stack
+
+- [React.js](https://reactjs.org/)  
+- [Material UI](https://mui.com/)  
+- [OpenWeather API](https://openweathermap.org/api)
+
+---
+
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/CodxAbhay/BasicReact.git
+
+
+2. Go to the project directory
+cd Weater_Application_React
+
+3. Install dependencies
+npm install
+
+4. Set up environment variables
+
+Create a .env file in the root directory and add your API key:
+
+VITE_OPENWEATHER_API_KEY=your_api_key_here
+
+5. Start the development server
+npm run dev
+
+
+📷 Preview
+
+<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/bbca0831-d579-4fbd-b706-f943b0f20fd0" />
+<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/3d286b7c-f710-4879-8ac5-4387ee81c682" />
+
+
+
+📄 License
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project.
+
+💡 Author
+
+Abhay Verma
