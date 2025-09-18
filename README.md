@@ -27,7 +27,7 @@ A simple and responsive weather application built with **React.js** that allows 
 
 ### 1. Clone the repository
 
-git clone https://github.com/CodxAbhay/BasicReact.git
+git clone https://github.com/CodxAbhay/Weater-Application.git
 
 
 ### 2. Go to the project directory
